@@ -41,8 +41,7 @@
 <br>
 
 <div align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=alecswift&theme=darkhub&column=7&margin-w=11" alt="GitHub Trophies" />
+  GitHub Trophies
 </div>
 
 <br>
